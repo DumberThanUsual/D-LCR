@@ -1,3 +1,4 @@
-[submodule "A1-Main-Board"]
-	path = A1-Main-Board
+[submodule "A1_Main-Board"]
+	path = A1_Main-Board
 	url = https://github.com/DumberThanUsual/D-LCR_A1_Main-Board.git
+	branch = Rev.1
